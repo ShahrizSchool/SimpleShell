@@ -8,7 +8,7 @@
 * File: <simpleshell.c>
 *
 * Description: For this assignment we are getting userInput from command prompt so the shell we create
-* will = work on top of the regular command-line interpreter for linux. 
+* will work on top of the regular command-line interpreter for linux. 
 *
 **************************************************************/
 
